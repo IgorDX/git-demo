@@ -1,0 +1,23 @@
+[33mcommit 3b3476961bb0a55ab092ff2b9a3d1f86a1b7ac94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ihor Dorokhov <dorokhov.ihor@gmail.com>
+Date:   Sat Jan 18 20:30:33 2025 +0100
+
+    Third Commit
+
+[33mcommit 8cc0a31f7bde5f307774a464ed7b53612273de38[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: IgorDX <109869521+IgorDX@users.noreply.github.com>
+Date:   Sat Jan 18 21:27:47 2025 +0200
+
+    Create index.html
+
+[33mcommit 1b8bee93465bdcce6f99cccc9098b9a9a13a1bb8[m
+Author: IgorDX <109869521+IgorDX@users.noreply.github.com>
+Date:   Sat Jan 18 21:26:39 2025 +0200
+
+    Create README.md
+
+[33mcommit 6ec674191a1e817cf785efb32febcda39bb3c675[m
+Author: IgorDX <109869521+IgorDX@users.noreply.github.com>
+Date:   Sat Jan 18 21:26:15 2025 +0200
+
+    Create .gitignore
